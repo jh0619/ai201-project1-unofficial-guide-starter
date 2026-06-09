@@ -11,6 +11,9 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+New Grad SWE Interview Experiences — covering technical (LeetCode, system design) and behavioral rounds at top companies.
+This knowledge is valuable because official company career pages only describe the process generically. The real signal — what topics actually appear, how interviewers evaluate answers, which behavioral themes recur — lives in candidate experience posts scattered across Blind, Reddit, Glassdoor, and LeetCode discuss. There's no single place to search "what does Capital One TDP actually test in system design."
+
 ---
 
 ## Documents
@@ -18,18 +21,18 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #   | Source    | Description                                    | URL or location                                                                                  |
+| --- | --------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1   | Blind     | "Bloomberg interview process"                  | https://www.teamblind.com/post/bloomberg-interview-process-ymx04b5i                              |
+| 2   | Blind     | "Bloomberg new grad interview"                 | https://www.teamblind.com/post/bloomberg-new-grad-interview-dvxpnaes                             |
+| 3   | Blind     | "Bloomberg Interview Process"                  | https://www.teamblind.com/post/bloomberg-interview-process-jypvloej                              |
+| 4   | Reddit    | "Apple SWE New Grad Technical Interview"       | https://www.reddit.com/r/csMajors/comments/1ohnn13/apple_swe_new_grad_technical_interview/       |
+| 5   | Reddit    | "Apple New Grad Interview Expectations?"       | https://www.reddit.com/r/FAANGrecruiting/comments/1otr1bf/apple_new_grad_interview_expectations/ |
+| 6   | Reddit    | "Apple new grad SWE role"                      | https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/                      |
+| 7   | Leetcode  | "Cracked Google - interview experience L3"     | https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/         |
+| 8   | Leetcode  | "L3 Team matching (Google)"                    | https://leetcode.com/discuss/post/8256291/l3-team-matching-by-anonymous_user-4ouh/               |
+| 9   | Glassdoor | "Software Engineer Graduate Interview(Amazon)" | https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW103632134.htm                      |
+| 10  | Glassdoor | "Graduate Software Engineer Interview(Amazon)" | https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104015185.htm                      |
 
 ---
 
@@ -71,13 +74,13 @@
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| #   | Question | Expected answer |
+| --- | -------- | --------------- |
+| 1   |          |                 |
+| 2   |          |                 |
+| 3   |          |                 |
+| 4   |          |                 |
+| 5   |          |                 |
 
 ---
 
