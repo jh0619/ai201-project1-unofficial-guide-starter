@@ -1,0 +1,23 @@
+SOURCE: Reddit
+URL: https://www.reddit.com/r/FAANGrecruiting/comments/1otr1bf/apple_new_grad_interview_expectations/
+DATE: 2025-12
+COMPANY: Apple
+---
+Apple New Grad Interview Expectations?
+
+Got a first round interview at Apple for their CoreOS team, for a QA/testing role. 45 minutes, Coderpad and maybe some light resume questions? For the coding aspect, what should I expect?
+---
+ 
+Comment One:
+Expect 1-2 easy/medium leetcode. There’s no Apple tagged lc questions since it’s team dependent and they can ask anything 
+
+Comment Two:
+How did you apply ?
+Reply One for Comment Two:
+Applied to new grad roles, then had a 1:1 interview at a school Apple CoreOS event with an Apple manager at my school (which probably converted into the interview)
+
+Comment Three:
+For a QA/testing role expect basic data structure manipulation, string operations, or simple algorithmic problems - think array traversals, hash maps, or straightforward logic puzzles rather than dynamic programming or complex graph algorithms. They want to see that you can write clean, functional code and think through edge cases, which is essential for testing. The resume questions will probably focus on any testing experience, automation frameworks you've used, and how you approach breaking software.
+
+The 45-minute format means they'll probably give you one or two problems max, so take your time to clarify requirements upfront and talk through your approach before coding. They're evaluating your problem-solving process as much as the final solution, so communicate what you're thinking. Since this is CoreOS, they might throw in system-level scenarios or ask about your understanding of operating systems fundamentals, so refresh your knowledge on processes, threads, and basic OS concepts if it's been a while. If you want help with the types of questions that come up in these technical rounds and how to articulate your thought process effectively, I built AI interview assistant to navigate tricky interview questions in real-time.
+

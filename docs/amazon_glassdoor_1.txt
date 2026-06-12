@@ -1,0 +1,21 @@
+SOURCE: Glassdoor
+URL: https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW103632134.htm
+DATE: 2026-04
+COMPANY: Amazon
+---
+
+Software Engineer Graduate Interview
+Anonymous Interview Candidate
+No offer
+Neutral experience
+Difficult interview
+
+Application
+
+I interviewed at Amazon
+
+Interview
+
+The interview process consisted of 2 parts: the leetcode style hackerrank test which included 1 easy question and one medium-hard question. The second part was Amazon work style assesment and behavioural questions
+---
+ 

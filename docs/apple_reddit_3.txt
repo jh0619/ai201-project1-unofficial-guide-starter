@@ -1,0 +1,55 @@
+SOURCE: Reddit
+URL: https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/
+DATE: 2025-07
+COMPANY: Apple
+---
+Apple new grad SWE role
+
+Hello I have a screening interview coming up for a new grad SWE role at IS&T. What can I expect in this round? Any help would be greatly appreciated
+
+Thanks!
+
+---
+ 
+Comment One:
+Oh Apple IS&T! That's their internal systems & technology group - basically the folks who keep all of Apple's internal stuff running smoothly. Way different vibe than their consumer product teams.
+
+From what I've seen placing people there, the screening is usually pretty chill compared to something like Citadel (which as I mentioned in another thread, will absolutely roast you on algorithms lol). Apple's more interested in seeing if you can actually code and aren't completely socially awkward.
+
+Expect some basic coding questions - nothing too crazy for the screening round. Think more along the lines of "reverse a string" or "find duplicates in an array" rather than "implement a red-black tree while standing on your head." They might ask about your projects and what technologies you've worked with.
+
+The funny thing about Apple is they're super secretive so they probably won't tell you much about what you'd actually be working on until like... your third interview. Just nod and smile when they say things like "innovative internal solutions" because that could mean anything from fixing the cafeteria ordering system to building tools for the iPhone team.
+
+Pro tip: they love asking "tell me about a time you had to learn something new quickly" because IS&T deals with a million different internal systems and you'll constantly be figuring out new stuff.
+
+Also brush up on your "why Apple" answer because they definitely ask that. Don't just say "I love iPhones" - talk about wanting to support the infrastructure that enables innovation or something like that.
+
+You got this! Apple's a great place to start your career, especially if you like variety in your work.
+
+Are you just applying to big companies or also interested in startups?
+
+Good luck!
+
+Comment Two:
+When did you apply?
+Reply One for Comment Two:
+July start
+
+Comment Three:
+is this 2025 NG or 2026?
+Reply One for Comment Three:
+2025 ng
+
+Comment Four:
+How did you applied like oncampus or offcampus
+Reply One for Comment Four:
+On careers site
+
+Comment Five:
+I completed my call with the hiring manager today for the Software Engineer – Distributed Systems (Storage) role. During the interview, we first went through a LeetCode medium-level file-related question, followed by questions about my experience and some team-matching discussions.
+I’m now waiting for an update—does anyone know how long it usually takes to hear back?
+Reply One for Comment Five:
+Hey.. you got any update? Dm’ed you!
+
+Comment Six:
+How long after your tech screening did you get a response for if you were moving forward or not

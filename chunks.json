@@ -1,0 +1,442 @@
+[
+  {
+    "chunk_id": "amazon_glassdoor_1.txt__chunk_0",
+    "text": "Software Engineer Graduate Interview\nAnonymous Interview Candidate\nNo offer\nNeutral experience\nDifficult interview\n\nApplication\n\nI interviewed at Amazon\n\nInterview\n\nThe interview process consisted of 2 parts: the leetcode style hackerrank test which included 1 easy question and one medium-hard question. The second part was Amazon work style assesment and behavioural questions\n---",
+    "source": "Glassdoor",
+    "url": "https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW103632134.htm",
+    "company": "Amazon",
+    "filename": "amazon_glassdoor_1.txt"
+  },
+  {
+    "chunk_id": "amazon_glassdoor_2.txt__chunk_0",
+    "text": "Graduate Software Engineer Interview\nAnonymous Interview Candidate\nNo offer\nPositive experience\nDifficult interview\n\nApplication\n\nI interviewed at Amazon (London, England)\n\nInterview\n\nSimple and very quick not it was an online interview with many different levels and took around 2 and a half hours and was quite long winded. Would do again however",
+    "source": "Glassdoor",
+    "url": "https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104302774.htm",
+    "company": "Amazon",
+    "filename": "amazon_glassdoor_2.txt"
+  },
+  {
+    "chunk_id": "amazon_glassdoor_2.txt__chunk_1",
+    "text": "ok around 2 and a half hours and was quite long winded. Would do again however\n\nInterview questions [1]\nQuestion 1\nPersonality test and situational judgement\n---",
+    "source": "Glassdoor",
+    "url": "https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104302774.htm",
+    "company": "Amazon",
+    "filename": "amazon_glassdoor_2.txt"
+  },
+  {
+    "chunk_id": "amazon_glassdoor_3.txt__chunk_0",
+    "text": "Graduate Software Engineer Interview\nAnonymous Interview Candidate\nNo offer\nNeutral experience\nAverage interview\n\nApplication\n\nI applied through an employee referral. I interviewed at Amazon (Haifa) in May 2026\n\nInterview\n\nI went through a lengthy interview process that included an online assessment followed by a loop of four interviews. There was unfortunately a scheduling misunderstanding during",
+    "source": "Glassdoor",
+    "url": "https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104015185.htm",
+    "company": "Amazon",
+    "filename": "amazon_glassdoor_3.txt"
+  },
+  {
+    "chunk_id": "amazon_glassdoor_3.txt__chunk_1",
+    "text": "of four interviews. There was unfortunately a scheduling misunderstanding during the process, and two of the interviews were moved without me being informed beforehand, which resulted in me waiting in front of my screen for nearly two hours. After speaking with several employees from the company, I understood this was very unusual, so I tried not to take it personally.",
+    "source": "Glassdoor",
+    "url": "https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104015185.htm",
+    "company": "Amazon",
+    "filename": "amazon_glassdoor_3.txt"
+  },
+  {
+    "chunk_id": "amazon_glassdoor_3.txt__chunk_2",
+    "text": "pany, I understood this was very unusual, so I tried not to take it personally. To be fair, the interviewers themselves were professional, friendly, and genuinely enjoyable to speak with. I appreciated many of the conversations and came out of them with a positive impression of the people. What disappointed me most came at the very end of the process: after investing significant time preparing for",
+    "source": "Glassdoor",
+    "url": "https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104015185.htm",
+    "company": "Amazon",
+    "filename": "amazon_glassdoor_3.txt"
+  },
+  {
+    "chunk_id": "amazon_glassdoor_3.txt__chunk_3",
+    "text": "e at the very end of the process: after investing significant time preparing for the interviews and completing every stage, I was rejected without receiving any meaningful feedback. I understand companies cannot always provide detailed interview evaluations, but I believe candidates who dedicate substantial time and effort to a rigorous process deserve at least some indication of where they fell s",
+    "source": "Glassdoor",
+    "url": "https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104015185.htm",
+    "company": "Amazon",
+    "filename": "amazon_glassdoor_3.txt"
+  },
+  {
+    "chunk_id": "amazon_glassdoor_3.txt__chunk_4",
+    "text": "fort to a rigorous process deserve at least some indication of where they fell short or what they could improve. Feedback is one of the few ways candidates can grow from the experience and become stronger professionals going forward. It felt especially surprising from a company that places such a strong emphasis on values and personal growth.",
+    "source": "Glassdoor",
+    "url": "https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104015185.htm",
+    "company": "Amazon",
+    "filename": "amazon_glassdoor_3.txt"
+  },
+  {
+    "chunk_id": "amazon_glassdoor_3.txt__chunk_5",
+    "text": "rom a company that places such a strong emphasis on values and personal growth. Encouraging people to improve should also include giving candidates enough direction to learn from the process, even when the outcome is a rejection.\n\nInterview questions [1]\nQuestion 1\nGive me an example of a project with tight deadline you had in your studies and how did you deal with that deadline\n---",
+    "source": "Glassdoor",
+    "url": "https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104015185.htm",
+    "company": "Amazon",
+    "filename": "amazon_glassdoor_3.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_1.txt__chunk_0",
+    "text": "Hi! I have an apple SWE interview for new grad coming up, would really appreciate any information on the process and am down to exchange any information too!\n\n---\n \nComment One:\nFrom my Apple interview last fall, the flow was recruiter chat, then a technical screen, then a half day of virtual onsites with 2 to 4 rounds focused on LeetCode style DS algo, one light system design for scale reasoning,",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/csMajors/comments/1ohnn13/apple_swe_new_grad_technical_interview/",
+    "company": "Apple",
+    "filename": "apple_reddit_1.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_1.txt__chunk_1",
+    "text": "focused on LeetCode style DS algo, one light system design for scale reasoning, and a behavioral chat. What helped me was running 45 minute timed mocks and narrating every step; I used Beyz coding assistant with prompts from the IQB interview question bank to simulate pressure and cut filler. I also kept a tight STAR story bank and trimmed answers to about 90 seconds.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/csMajors/comments/1ohnn13/apple_swe_new_grad_technical_interview/",
+    "company": "Apple",
+    "filename": "apple_reddit_1.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_1.txt__chunk_2",
+    "text": "r. I also kept a tight STAR story bank and trimmed answers to about 90 seconds. If you know the org or location, prep can be tailored. Good luck!\n \nComment Two:\nis this for is&t?\n\nComment Three:\nHow long after your tech screening did you get a response for if you were moving forward or not",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/csMajors/comments/1ohnn13/apple_swe_new_grad_technical_interview/",
+    "company": "Apple",
+    "filename": "apple_reddit_1.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_2.txt__chunk_0",
+    "text": "Apple New Grad Interview Expectations?\n\nGot a first round interview at Apple for their CoreOS team, for a QA/testing role. 45 minutes, Coderpad and maybe some light resume questions? For the coding aspect, what should I expect?\n---\n \nComment One:\nExpect 1-2 easy/medium leetcode. There’s no Apple tagged lc questions since it’s team dependent and they can ask anything",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/FAANGrecruiting/comments/1otr1bf/apple_new_grad_interview_expectations/",
+    "company": "Apple",
+    "filename": "apple_reddit_2.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_2.txt__chunk_1",
+    "text": "Apple tagged lc questions since it’s team dependent and they can ask anything \n\nComment Two:\nHow did you apply ?\nReply One for Comment Two:\nApplied to new grad roles, then had a 1:1 interview at a school Apple CoreOS event with an Apple manager at my school (which probably converted into the interview)\n\nComment Three:\nFor a QA/testing role expect basic data structure manipulation, string operation",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/FAANGrecruiting/comments/1otr1bf/apple_new_grad_interview_expectations/",
+    "company": "Apple",
+    "filename": "apple_reddit_2.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_2.txt__chunk_2",
+    "text": "For a QA/testing role expect basic data structure manipulation, string operations, or simple algorithmic problems - think array traversals, hash maps, or straightforward logic puzzles rather than dynamic programming or complex graph algorithms. They want to see that you can write clean, functional code and think through edge cases, which is essential for testing.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/FAANGrecruiting/comments/1otr1bf/apple_new_grad_interview_expectations/",
+    "company": "Apple",
+    "filename": "apple_reddit_2.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_2.txt__chunk_3",
+    "text": ", functional code and think through edge cases, which is essential for testing. The resume questions will probably focus on any testing experience, automation frameworks you've used, and how you approach breaking software.\n\nThe 45-minute format means they'll probably give you one or two problems max, so take your time to clarify requirements upfront and talk through your approach before coding.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/FAANGrecruiting/comments/1otr1bf/apple_new_grad_interview_expectations/",
+    "company": "Apple",
+    "filename": "apple_reddit_2.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_2.txt__chunk_4",
+    "text": "e to clarify requirements upfront and talk through your approach before coding. They're evaluating your problem-solving process as much as the final solution, so communicate what you're thinking. Since this is CoreOS, they might throw in system-level scenarios or ask about your understanding of operating systems fundamentals, so refresh your knowledge on processes, threads, and basic OS concepts i",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/FAANGrecruiting/comments/1otr1bf/apple_new_grad_interview_expectations/",
+    "company": "Apple",
+    "filename": "apple_reddit_2.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_2.txt__chunk_5",
+    "text": "entals, so refresh your knowledge on processes, threads, and basic OS concepts if it's been a while. If you want help with the types of questions that come up in these technical rounds and how to articulate your thought process effectively, I built AI interview assistant to navigate tricky interview questions in real-time.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/FAANGrecruiting/comments/1otr1bf/apple_new_grad_interview_expectations/",
+    "company": "Apple",
+    "filename": "apple_reddit_2.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_3.txt__chunk_0",
+    "text": "Apple new grad SWE role\n\nHello I have a screening interview coming up for a new grad SWE role at IS&T. What can I expect in this round? Any help would be greatly appreciated\n\nThanks!\n\n---\n \nComment One:\nOh Apple IS&T! That's their internal systems & technology group - basically the folks who keep all of Apple's internal stuff running smoothly.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/",
+    "company": "Apple",
+    "filename": "apple_reddit_3.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_3.txt__chunk_1",
+    "text": "- basically the folks who keep all of Apple's internal stuff running smoothly. Way different vibe than their consumer product teams.\n\nFrom what I've seen placing people there, the screening is usually pretty chill compared to something like Citadel (which as I mentioned in another thread, will absolutely roast you on algorithms lol). Apple's more interested in seeing if you can actually code and",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/",
+    "company": "Apple",
+    "filename": "apple_reddit_3.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_3.txt__chunk_2",
+    "text": "algorithms lol). Apple's more interested in seeing if you can actually code and aren't completely socially awkward.\n\nExpect some basic coding questions - nothing too crazy for the screening round. Think more along the lines of \"reverse a string\" or \"find duplicates in an array\" rather than \"implement a red-black tree while standing on your head.\" They might ask about your projects and what technol",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/",
+    "company": "Apple",
+    "filename": "apple_reddit_3.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_3.txt__chunk_3",
+    "text": "hile standing on your head.\" They might ask about your projects and what technologies you've worked with.\n\nThe funny thing about Apple is they're super secretive so they probably won't tell you much about what you'd actually be working on until like... your third interview. Just nod and smile when they say things like \"innovative internal solutions\" because that could mean anything from fixing the",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/",
+    "company": "Apple",
+    "filename": "apple_reddit_3.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_3.txt__chunk_4",
+    "text": "\"innovative internal solutions\" because that could mean anything from fixing the cafeteria ordering system to building tools for the iPhone team.\n\nPro tip: they love asking \"tell me about a time you had to learn something new quickly\" because IS&T deals with a million different internal systems and you'll constantly be figuring out new stuff.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/",
+    "company": "Apple",
+    "filename": "apple_reddit_3.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_3.txt__chunk_5",
+    "text": "ion different internal systems and you'll constantly be figuring out new stuff.\n\nAlso brush up on your \"why Apple\" answer because they definitely ask that. Don't just say \"I love iPhones\" - talk about wanting to support the infrastructure that enables innovation or something like that.\n\nYou got this! Apple's a great place to start your career, especially if you like variety in your work.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/",
+    "company": "Apple",
+    "filename": "apple_reddit_3.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_3.txt__chunk_6",
+    "text": "great place to start your career, especially if you like variety in your work.\n\nAre you just applying to big companies or also interested in startups?\n\nGood luck!\n\nComment Two:\nWhen did you apply?\nReply One for Comment Two:\nJuly start\n\nComment Three:\nis this 2025 NG or 2026?\nReply One for Comment Three:\n2025 ng\n\nComment Four:\nHow did you applied like oncampus or offcampus",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/",
+    "company": "Apple",
+    "filename": "apple_reddit_3.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_3.txt__chunk_7",
+    "text": "nt Three:\n2025 ng\n\nComment Four:\nHow did you applied like oncampus or offcampus\nReply One for Comment Four:\nOn careers site\n\nComment Five:\nI completed my call with the hiring manager today for the Software Engineer – Distributed Systems (Storage) role. During the interview, we first went through a LeetCode medium-level file-related question, followed by questions about my experience and some team-",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/",
+    "company": "Apple",
+    "filename": "apple_reddit_3.txt"
+  },
+  {
+    "chunk_id": "apple_reddit_3.txt__chunk_8",
+    "text": "file-related question, followed by questions about my experience and some team-matching discussions.\nI’m now waiting for an update—does anyone know how long it usually takes to hear back?\nReply One for Comment Five:\nHey.. you got any update? Dm’ed you!\n\nComment Six:\nHow long after your tech screening did you get a response for if you were moving forward or not",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/",
+    "company": "Apple",
+    "filename": "apple_reddit_3.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_1.txt__chunk_0",
+    "text": "Bloomberg interview process\n \nI’m a SWE with 5 years of experience, and I recently interviewed with Bloomberg for a senior SWE role. The process so far: I first did a 45-minute LeetCode screen, which I passed (recruiter confirmed the next day). Earlier this week I had 2 online technical interviews, which I feel went really well.\n\nHowever, I haven’t heard back yet.",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-ymx04b5i",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_1.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_1.txt__chunk_1",
+    "text": "interviews, which I feel went really well.\n\nHowever, I haven’t heard back yet. From what I know, if I pass the technicals the next step should be 2 rounds of non-technical onsite interviews. Is this timeline normal, or does the silence mean I’ve been rejected or just waiting in line behind other candidates?\n\nAnd from what I’ve heard, Bloomberg tends to lean toward either new grads or candidates w",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-ymx04b5i",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_1.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_1.txt__chunk_2",
+    "text": "what I’ve heard, Bloomberg tends to lean toward either new grads or candidates with 10+ years of experience, so I’m not sure if being mid-level (5 YOE) puts me at a disadvantage here.\n \n---\n \nComment One:\nBloomberg is a very popular landing spot for burnt out people.\nDid you ask your recruiter how the headcount and pipeline situation looks like?\nReply One for Comment One:",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-ymx04b5i",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_1.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_1.txt__chunk_3",
+    "text": "how the headcount and pipeline situation looks like?\nReply One for Comment One:\nOr people who don’t want to worry about getting fired every 3 months\n \nComment Two:\nI can't offer much help, but I have never heard that about mid level people. If you did well, that shouldn't matter. I would say the timeline is normal. We move slow here sometimes.",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-ymx04b5i",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_1.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_1.txt__chunk_4",
+    "text": "uldn't matter. I would say the timeline is normal. We move slow here sometimes. Good luck\nReply One for Comment Two:\nI passed the first two rounds and received an invitation for the final two rounds in NYC. HR told me these last two are not technical: one with the hiring manager and one with the skip-level manager. Are these two rounds usually easier to pass?\nReply Two for Comment Two:",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-ymx04b5i",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_1.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_1.txt__chunk_5",
+    "text": "anager. Are these two rounds usually easier to pass?\nReply Two for Comment Two:\nHow did it go OP? Was it indeed easier?\n\nComment Three:\nHow did the in person interviews go?\n\nComment Four:\nHey did you get the offer?\nI finished my technical screen and have the 2/30 minutes virtual onsite. Can you please share the what I should expect in these.",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-ymx04b5i",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_1.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_1.txt__chunk_6",
+    "text": "minutes virtual onsite. Can you please share the what I should expect in these. \nAlso did you have to visit the NYC office for later rounds. If you can please share. Thanks\n\nComment Five:\nHow is the interview experience with Bloomberg for screening round ?\nI have scheduled that tomorrow\n\nComment Six:\nCan you tell me which location and position did you interview for at bloomberg?",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-ymx04b5i",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_1.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_2.txt__chunk_0",
+    "text": "Bloomberg new grad interview\n \nI have a new grad first round interview with Bloomberg. It is a technical interview. I am doing Leetcode tagged questions. Would I be asked system design? What is the format of the interviews and any advice on acing it. I am just there with Leetcode unfortunately.\n---\n \nComment One:\nCould you share with me how you got the call?\n \nComment Two:",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-new-grad-interview-dvxpnaes",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_2.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_2.txt__chunk_1",
+    "text": "---\n \nComment One:\nCould you share with me how you got the call?\n \nComment Two:\nAll leetcode for me, got all tagged questions. No system design.\nReply One for Comment Two:\nIt was phone screen -> 3 round virtual on site (2 technical 1 behavioral) -> engineer manager round (just talking about resume for me)\nReply Two for Comment Two:\nWould you say the questions focused on a particular algorithm or d",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-new-grad-interview-dvxpnaes",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_2.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_2.txt__chunk_2",
+    "text": "Comment Two:\nWould you say the questions focused on a particular algorithm or data structure?\n\nComment Three:\nHi! I was new Grad 2024. I had 5 interviews. 3 technicals mostly LC mediums similar to tagged. 1 behavioral and 1 EM which was a resume deep dive but more technical. Nothing too SysDes\nReply One for Comment Three:\nWould you say the questions focused on a particular algorithm or data struc",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-new-grad-interview-dvxpnaes",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_2.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_2.txt__chunk_3",
+    "text": "ree:\nWould you say the questions focused on a particular algorithm or data structure?\nReply Two for Comment Three:\nYes, I'd say so. Very LC\n\nComment Four:\nWhy not return to Netflix?\n\nComment Five:\nI got system design as a new grad, pretty sure everyone gets it",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-new-grad-interview-dvxpnaes",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_2.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_3.txt__chunk_0",
+    "text": "Bloomberg Interview Process\n \nI'm currently interviewing with Bloomberg for a 2024 New Grad position. I told them I had a competing offer with a deadline (within the next week) and they ended up expediting my virtual technical interview to accommodate the offer. I previously had a technical interview as well with one SWE.\nThe interviewers, one being a Senior SWE, asked LC mediums that I was famili",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-jypvloej",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_3.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_3.txt__chunk_1",
+    "text": "WE.\nThe interviewers, one being a Senior SWE, asked LC mediums that I was familiar with and they told me HR would contact me with next steps at the end. How long can I expect to hear back and should I expect further interviews given that I have a quick deadline to meet?\n\n---\n \nComment One:\nDid they say HR will contact you soon? Or like did the last interviewer say “stay on the zoom for the hr recr",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-jypvloej",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_3.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_3.txt__chunk_2",
+    "text": "you soon? Or like did the last interviewer say “stay on the zoom for the hr recruiter to join” or “the hr recruiter should email you to meet soon within the next hour” ? Reason is I think Bloomberg does this thing where usually the day of interviews, if the results are good, you usually have this behavioral interview with HR the same day that only gets scheduled if they want to move forward.",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-jypvloej",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_3.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_3.txt__chunk_3",
+    "text": "iew with HR the same day that only gets scheduled if they want to move forward. Happened with me. Not sure though if it doesn’t happen, it means the process is done and it’s a rejection. Let us know, and good luck friend\nReply One for Comment One:\nJust received word from my recruiter. Another hr technical round and a 30min behavioral with another recruiter.",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-jypvloej",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_3.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_3.txt__chunk_4",
+    "text": "iter. Another hr technical round and a 30min behavioral with another recruiter. I assume this is the round with an EM for sys design as I've read in other threads?\nReply Two for Comment One:\nNo it isn't, the EM interview should come afterwards if you pass this one. HR interview is just a behavioral interview asking you about your motivations, what you want to do at Bloomberg and your past experien",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-jypvloej",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_3.txt"
+  },
+  {
+    "chunk_id": "bloomberg_blind_3.txt__chunk_5",
+    "text": "about your motivations, what you want to do at Bloomberg and your past experiences etc.\n\nComment Two:\nIt should not be more than a week.\nWas your LC medium from the Bloomberg tagged problems. Asking for a datapoint.\nReply One for Comment Two:\nYeah, they were Bloomberg tagged.\n\nComment Three:\nHow many melons did you de-bone? If it was less than 10 don’t expect a call any time soon.",
+    "source": "Blind",
+    "url": "https://www.teamblind.com/post/bloomberg-interview-process-jypvloej",
+    "company": "Bloomberg",
+    "filename": "bloomberg_blind_3.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_1.txt__chunk_0",
+    "text": "Cracked Google - interview experience L3\nTimeline:\n\nday 1 recruiter reached out\nday 10 call with recruiter\nday 30 dsa phone screen - Medium graph. Follow up - Very hard graph. I dont think they expected me to solve it, probably wanted to see how I approach hard problems or something.\nday 31 - Behavioral interview\nday 40 - got feedback, passing to onsite",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "company": "Google",
+    "filename": "google_leetcode_1.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_1.txt__chunk_1",
+    "text": "mething.\nday 31 - Behavioral interview\nday 40 - got feedback, passing to onsite\nday 65 - 2x onsite interviews: 1 medium/hard question, 1 medium graph\nday 66 - recruiter call, moved to team matching.\nAnyone knows how long team matching usually takes? Its for EU.\n---\n \nComment One:\nHey bro, congratulations, what I knew about Team matching it usually can take months, like 6+ can be expected.",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "company": "Google",
+    "filename": "google_leetcode_1.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_1.txt__chunk_2",
+    "text": "I knew about Team matching it usually can take months, like 6+ can be expected.\n\nAlso, if it not a trouble, I am 2k+ on LC and Expert on CF. Can we have a chat or something. I am getting into a hard time, and would like a feedback of how I can improve my chances of shortlisting. I am confident enough on my dsa/cp skills. It just shortlisting is very hard.",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "company": "Google",
+    "filename": "google_leetcode_1.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_1.txt__chunk_3",
+    "text": ". I am confident enough on my dsa/cp skills. It just shortlisting is very hard.\n\nComment Two:\nThanks and can you please share the exact questions they posed. Thanks\n\nComment Three:\nCongratulations on clearing the tech rounds! 🎉\n\nJust a friendly disclaimer from someone who's been camping in team matching for the last two months: maybe don't say you've \"cracked Google\" until team matching is done.",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "company": "Google",
+    "filename": "google_leetcode_1.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_1.txt__chunk_4",
+    "text": "wo months: maybe don't say you've \"cracked Google\" until team matching is done. 😄\n\nTurns out the final boss isn't the interviews—it's finding a team!\n\nComment Four:\nWhat offices are you applying for? Depending on which one, it can vary a lot\n\nComment Five:\nCongratulations, plz share the problems they asked.\n\nComment Six:\nbro, tell us ur tech stack, yoe, btw congrats buddy",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "company": "Google",
+    "filename": "google_leetcode_1.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_1.txt__chunk_5",
+    "text": "they asked.\n\nComment Six:\nbro, tell us ur tech stack, yoe, btw congrats buddy\n\nComment Seven:\ni am in tm since jan 2026 L3 EMEA\n\nComment Eight:\nWhat's your YOE ?\n\nComment Nine:\nwas the onsite in office or virtual?\n\nComment Ten:\ncongrats 👏🏻\ncould you tell us how was the preparation process ? Did you depend only on leetcode was that enough ?",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "company": "Google",
+    "filename": "google_leetcode_1.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_1.txt__chunk_6",
+    "text": "was the preparation process ? Did you depend only on leetcode was that enough ?\nI have around 2 YOE, and aim to start applying for FANNG what advices you can give ?",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "company": "Google",
+    "filename": "google_leetcode_1.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_2.txt__chunk_0",
+    "text": "L3 Team matching (Google)\nHi all,\n\nI have cleared all the rounds for google L3 position.(I have already shared my interview exp.)\nI received the update from HR on next day of my offline interviews that I will be moving to team matching.\nIt has been more than 1.5 weeks.\nIn general, how much time does it take? I interviewed at blr office .\n\n---\n \nComment One:",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8256291/l3-team-matching-by-anonymous_user-4ouh/",
+    "company": "Google",
+    "filename": "google_leetcode_2.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_2.txt__chunk_1",
+    "text": ", how much time does it take? I interviewed at blr office .\n\n---\n \nComment One:\nThe kind of name that attracts customers is usually simple, memorable, professional, creative, and emotionally appealing for the target audience. WhatsApp Support: +91 76830 59474 Many successful businesses use catchy brand names that sound modern, trustworthy, stylish, and easy to search online to improve customer eng",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8256291/l3-team-matching-by-anonymous_user-4ouh/",
+    "company": "Google",
+    "filename": "google_leetcode_2.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_2.txt__chunk_2",
+    "text": "modern, trustworthy, stylish, and easy to search online to improve customer engagement and online branding. WhatsApp Branding Help: +91 76830 59474\nComment Two:\nCongrats for clearing onsites. As a Googler and from my experience . It typically takes anywhere from 2 to 6 weeks to clear team matching. Sometimes it happens in days, and occasionally it can stretch longer depending on headcount availab",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8256291/l3-team-matching-by-anonymous_user-4ouh/",
+    "company": "Google",
+    "filename": "google_leetcode_2.txt"
+  },
+  {
+    "chunk_id": "google_leetcode_2.txt__chunk_3",
+    "text": "s in days, and occasionally it can stretch longer depending on headcount availability.",
+    "source": "Leetcode",
+    "url": "https://leetcode.com/discuss/post/8256291/l3-team-matching-by-anonymous_user-4ouh/",
+    "company": "Google",
+    "filename": "google_leetcode_2.txt"
+  }
+]

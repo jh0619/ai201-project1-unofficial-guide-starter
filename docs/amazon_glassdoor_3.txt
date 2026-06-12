@@ -1,0 +1,25 @@
+SOURCE: Glassdoor
+URL: https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104015185.htm
+DATE: 2026-05
+COMPANY: Amazon
+---
+
+Graduate Software Engineer Interview
+Anonymous Interview Candidate
+No offer
+Neutral experience
+Average interview
+
+Application
+
+I applied through an employee referral. I interviewed at Amazon (Haifa) in May 2026
+
+Interview
+
+I went through a lengthy interview process that included an online assessment followed by a loop of four interviews. There was unfortunately a scheduling misunderstanding during the process, and two of the interviews were moved without me being informed beforehand, which resulted in me waiting in front of my screen for nearly two hours. After speaking with several employees from the company, I understood this was very unusual, so I tried not to take it personally. To be fair, the interviewers themselves were professional, friendly, and genuinely enjoyable to speak with. I appreciated many of the conversations and came out of them with a positive impression of the people. What disappointed me most came at the very end of the process: after investing significant time preparing for the interviews and completing every stage, I was rejected without receiving any meaningful feedback. I understand companies cannot always provide detailed interview evaluations, but I believe candidates who dedicate substantial time and effort to a rigorous process deserve at least some indication of where they fell short or what they could improve. Feedback is one of the few ways candidates can grow from the experience and become stronger professionals going forward. It felt especially surprising from a company that places such a strong emphasis on values and personal growth. Encouraging people to improve should also include giving candidates enough direction to learn from the process, even when the outcome is a rejection.
+
+Interview questions [1]
+Question 1
+Give me an example of a project with tight deadline you had in your studies and how did you deal with that deadline
+---
+ 

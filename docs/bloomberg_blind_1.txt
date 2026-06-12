@@ -1,0 +1,43 @@
+SOURCE: Blind
+URL: https://www.teamblind.com/post/bloomberg-interview-process-ymx04b5i
+DATE: 2025-09
+COMPANY: Bloomberg
+---
+ 
+Bloomberg interview process
+ 
+I’m a SWE with 5 years of experience, and I recently interviewed with Bloomberg for a senior SWE role. The process so far: I first did a 45-minute LeetCode screen, which I passed (recruiter confirmed the next day). Earlier this week I had 2 online technical interviews, which I feel went really well.
+
+However, I haven’t heard back yet. From what I know, if I pass the technicals the next step should be 2 rounds of non-technical onsite interviews. Is this timeline normal, or does the silence mean I’ve been rejected or just waiting in line behind other candidates?
+
+And from what I’ve heard, Bloomberg tends to lean toward either new grads or candidates with 10+ years of experience, so I’m not sure if being mid-level (5 YOE) puts me at a disadvantage here.
+ 
+---
+ 
+Comment One:
+Bloomberg is a very popular landing spot for burnt out people.
+Did you ask your recruiter how the headcount and pipeline situation looks like?
+Reply One for Comment One:
+Or people who don’t want to worry about getting fired every 3 months
+ 
+Comment Two:
+I can't offer much help, but I have never heard that about mid level people.  If you did well, that shouldn't matter.  I would say the timeline is normal.  We move slow here sometimes.  Good luck
+Reply One for Comment Two:
+I passed the first two rounds and received an invitation for the final two rounds in NYC. HR told me these last two are not technical: one with the hiring manager and one with the skip-level manager. Are these two rounds usually easier to pass?
+Reply Two for Comment Two:
+How did it go OP? Was it indeed easier?
+
+Comment Three:
+How did the in person interviews go?
+
+Comment Four:
+Hey did you get the offer?
+I finished my technical screen and have the 2/30 minutes virtual onsite. Can you please share the what I should expect in these. 
+Also did you have to visit the NYC office for later rounds. If you can please share. Thanks
+
+Comment Five:
+How is the interview experience with Bloomberg for screening round ?
+I have scheduled that tomorrow
+
+Comment Six:
+Can you tell me which location and position did you interview for at bloomberg?

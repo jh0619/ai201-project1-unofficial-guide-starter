@@ -1,0 +1,19 @@
+SOURCE: Reddit
+URL: https://www.reddit.com/r/csMajors/comments/1ohnn13/apple_swe_new_grad_technical_interview/
+DATE: 2025-11
+COMPANY: Apple
+---
+ 
+Hi! I have an apple SWE interview for new grad coming up, would really appreciate any information on the process and am down to exchange any information too!
+
+---
+ 
+Comment One:
+From my Apple interview last fall, the flow was recruiter chat, then a technical screen, then a half day of virtual onsites with 2 to 4 rounds focused on LeetCode style DS algo, one light system design for scale reasoning, and a behavioral chat. What helped me was running 45 minute timed mocks and narrating every step; I used Beyz coding assistant with prompts from the IQB interview question bank to simulate pressure and cut filler. I also kept a tight STAR story bank and trimmed answers to about 90 seconds. If you know the org or location, prep can be tailored. Good luck!
+ 
+Comment Two:
+is this for is&t?
+
+Comment Three:
+How long after your tech screening did you get a response for if you were moving forward or not
+

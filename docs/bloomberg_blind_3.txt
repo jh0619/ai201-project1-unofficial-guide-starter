@@ -1,0 +1,28 @@
+SOURCE: Blind
+URL: https://www.teamblind.com/post/bloomberg-interview-process-jypvloej
+DATE: 2023-12
+COMPANY: Bloomberg
+---
+ 
+Bloomberg Interview Process
+ 
+I'm currently interviewing with Bloomberg for a 2024 New Grad position. I told them I had a competing offer with a deadline (within the next week) and they ended up expediting my virtual technical interview to accommodate the offer. I previously had a technical interview as well with one SWE.
+The interviewers, one being a Senior SWE, asked LC mediums that I was familiar with and they told me HR would contact me with next steps at the end. How long can I expect to hear back and should I expect further interviews given that I have a quick deadline to meet?
+
+---
+ 
+Comment One:
+Did they say HR will contact you soon? Or like did the last interviewer say “stay on the zoom for the hr recruiter to join” or “the hr recruiter should email you to meet soon within the next hour” ? Reason is I think Bloomberg does this thing where usually the day of interviews, if the results are good, you usually have this behavioral interview with HR the same day that only gets scheduled if they want to move forward. Happened with me. Not sure though if it doesn’t happen, it means the process is done and it’s a rejection. Let us know, and good luck friend
+Reply One for Comment One:
+Just received word from my recruiter. Another hr technical round and a 30min behavioral with another recruiter. I assume this is the round with an EM for sys design as I've read in other threads?
+Reply Two for Comment One:
+No it isn't, the EM interview should come afterwards if you pass this one. HR interview is just a behavioral interview asking you about your motivations, what you want to do at Bloomberg and your past experiences etc.
+
+Comment Two:
+It should not be more than a week.
+Was your LC medium from the Bloomberg tagged problems. Asking for a datapoint.
+Reply One for Comment Two:
+Yeah, they were Bloomberg tagged.
+
+Comment Three:
+How many melons did you de-bone? If it was less than 10 don’t expect a call any time soon.

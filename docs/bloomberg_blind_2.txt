@@ -1,0 +1,33 @@
+SOURCE: Blind
+URL: https://www.teamblind.com/post/bloomberg-new-grad-interview-dvxpnaes
+DATE: 2024-09
+COMPANY: Bloomberg
+---
+ 
+Bloomberg new grad interview
+ 
+I have a new grad first round interview with Bloomberg. It is a technical interview. I am doing Leetcode tagged questions. Would I be asked system design? What is the format of the interviews and any advice on acing it. I am just there with Leetcode unfortunately.
+---
+ 
+Comment One:
+Could you share with me how you got the call?
+ 
+Comment Two:
+All leetcode for me, got all tagged questions. No system design.
+Reply One for Comment Two:
+It was phone screen -> 3 round virtual on site (2 technical 1 behavioral) -> engineer manager round (just talking about resume for me)
+Reply Two for Comment Two:
+Would you say the questions focused on a particular algorithm or data structure?
+
+Comment Three:
+Hi! I was new Grad 2024. I had 5 interviews. 3 technicals mostly LC mediums similar to tagged. 1 behavioral and 1 EM which was a resume deep dive but more technical. Nothing too SysDes
+Reply One for Comment Three:
+Would you say the questions focused on a particular algorithm or data structure?
+Reply Two for Comment Three:
+Yes, I'd say so. Very LC
+
+Comment Four:
+Why not return to Netflix?
+
+Comment Five:
+I got system design as a new grad, pretty sure everyone gets it
