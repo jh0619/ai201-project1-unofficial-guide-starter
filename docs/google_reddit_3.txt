@@ -1,0 +1,26 @@
+SOURCE: Reddit
+URL: https://www.reddit.com/r/leetcode/comments/1si4bae/google_swe_new_grad_r1_experience/
+DATE: 2026-04
+COMPANY: Google
+---
+Google SWE New Grad R1 experience
+So I just finished my R1 last week (location US) and wanted to share my experience and see what you guys think possible outcome is
+
+Behavioral: super chill interviewer. We matched vibes, she seemed happy about all my answers, didn’t ask many follow ups and we went off topic some times to talk about random things (like a time I accidentally got charged after deploying a website on AWS) feel super strong about this
+
+Technical: he was more strict and not too expressive. Gave me a question and said he had follow ups from the beginning so he wanted to go fast. I solved the first one optimally pretty quickly, I’d say immediately. I coded it and it was correct. No bugs. Then moved into second problem, brute force was easy but he wanted the optimized so it took me I’d say 5 min to arrive at optimal and then he seemed satisfied with the optimal so I coded it. I had two bugs but I fixed them and the rest was correct. He said “everything here looks correct now” Then third problem took me about the same to arrive at optimal but this is only 45 min and he came in 5 min late so I could not code it. He did say don’t worry about coding for this one so I just arrived to the optimal solution.
+
+All time complexities and stuff were right, no major issues during the interview. Only the third one I initially pointed at a wrong solution and then I arrived at the correct and optimal one.
+
+topics were arrays, sliding window, hash maps and pointers
+
+Difficulty: first one easy, second and third medium
+---
+ 
+Comment One:
+ow hard was the coding, u wud say?
+Reply One for Comment One:
+Completely new in the wording but the patterns are in neetcode 150, sliding window
+
+Comment Two:
+sounds like you did solid on the technical parts. at prepfully we track a lot of new grad outcomes and honestly the behavioral matters more than people think for google. the fact you vibed with the interviewer and went off topic is actually a good sign - shows you can communicate naturally which is huge for team fit. for the technical, getting through 2.5 problems optimally with only minor bugs is pretty standard for moving forward. i wouldn't stress about not coding the third one since he said not to worry about it

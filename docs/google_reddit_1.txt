@@ -1,0 +1,33 @@
+SOURCE: Reddit
+URL: https://www.reddit.com/r/leetcode/comments/1tloebj/google_new_grad_2026_interview_experience/
+DATE: 2026-05
+COMPANY: Google
+---
+Google New Grad 2026 – Interview Experience
+Interviewing with Google was one of those experiences that really tests not just your problem-solving skills, but you as a person.
+
+Interview Rounds:
+
+Round 1:- A hard graph problem. I solved it using both a brute-force approach and an optimized solution, followed by follow-up questions.
+
+Round 2:- A challenging tree/graph-style problem, again solved using brute force and then optimized.
+
+This round also included a 15-minute Googlyness discussion.
+
+Round 3:- A tough matrix operation problem with several follow up questions, which I managed to solve optimally, followed by another Googlyness round.
+
+While the technical rounds went well, I received feedback from the recruiter that I could have performed better in the Googliness round, especially in the second interview. And honestly, I agree.
+
+This experience reinforced a very important lesson for me:
+
+Strong technical skills alone aren’t enough. Communication, collaboration, and mindset matter just as much.
+
+I’m grateful for the learning this process gave me and now have clear direction on what I need to improve — soft skills, communication, and expressing my thought process better.
+---
+
+Comment One:
+Can you please tell what does googlyness round question seems like?
+With an example?
+Reply One for Comment One:
+Tell me about a time you worked with a difficult teammate.
+Describe a conflict in a project and how you resolved it.

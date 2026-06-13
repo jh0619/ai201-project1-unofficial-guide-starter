@@ -29,11 +29,12 @@ This knowledge is valuable because official company career pages only describe t
 | 4   | Reddit    | "Apple SWE New Grad Technical Interview"       | https://www.reddit.com/r/csMajors/comments/1ohnn13/apple_swe_new_grad_technical_interview/       |
 | 5   | Reddit    | "Apple New Grad Interview Expectations?"       | https://www.reddit.com/r/FAANGrecruiting/comments/1otr1bf/apple_new_grad_interview_expectations/ |
 | 6   | Reddit    | "Apple new grad SWE role"                      | https://www.reddit.com/r/leetcode/comments/1m7j1pm/apple_new_grad_swe_role/                      |
-| 7   | Leetcode  | "Cracked Google - interview experience L3"     | https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/         |
-| 8   | Leetcode  | "L3 Team matching (Google)"                    | https://leetcode.com/discuss/post/8256291/l3-team-matching-by-anonymous_user-4ouh/               |
+| 7   | Reddit    | "Google New Grad 2026 – Interview Experience"  | https://www.reddit.com/r/leetcode/comments/1tloebj/google_new_grad_2026_interview_experience/    |
+| 8   | Reddit    | "Google New Grad Interview Experience"         | https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/         |
 | 9   | Glassdoor | "Software Engineer Graduate Interview(Amazon)" | https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW103632134.htm                      |
 | 10  | Glassdoor | "Graduate Software Engineer Interview(Amazon)" | https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104015185.htm                      |
 | 11  | Glassdoor | "Graduate Software Engineer Interview(Amazon)" | https://www.glassdoor.com/Interview/Amazon-Interview-E6036-RVW104302774.htm                      |
+| 12  | Reddit    | "Google SWE New Grad R1 experience"            | https://www.reddit.com/r/leetcode/comments/1si4bae/google_swe_new_grad_r1_experience/            |
 
 ---
 

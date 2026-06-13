@@ -352,91 +352,275 @@
     "filename": "bloomberg_blind_3.txt"
   },
   {
-    "chunk_id": "google_leetcode_1.txt__chunk_0",
-    "text": "Cracked Google - interview experience L3\nTimeline:\n\nday 1 recruiter reached out\nday 10 call with recruiter\nday 30 dsa phone screen - Medium graph. Follow up - Very hard graph. I dont think they expected me to solve it, probably wanted to see how I approach hard problems or something.\nday 31 - Behavioral interview\nday 40 - got feedback, passing to onsite",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "chunk_id": "google_reddit_1.txt__chunk_0",
+    "text": "Google New Grad 2026 – Interview Experience\nInterviewing with Google was one of those experiences that really tests not just your problem-solving skills, but you as a person.\n\nInterview Rounds:\n\nRound 1:- A hard graph problem. I solved it using both a brute-force approach and an optimized solution, followed by follow-up questions.\n\nRound 2:- A challenging tree/graph-style problem, again solved usi",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1tloebj/google_new_grad_2026_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_1.txt"
+    "filename": "google_reddit_1.txt"
   },
   {
-    "chunk_id": "google_leetcode_1.txt__chunk_1",
-    "text": "mething.\nday 31 - Behavioral interview\nday 40 - got feedback, passing to onsite\nday 65 - 2x onsite interviews: 1 medium/hard question, 1 medium graph\nday 66 - recruiter call, moved to team matching.\nAnyone knows how long team matching usually takes? Its for EU.\n---\n \nComment One:\nHey bro, congratulations, what I knew about Team matching it usually can take months, like 6+ can be expected.",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "chunk_id": "google_reddit_1.txt__chunk_1",
+    "text": "p questions.\n\nRound 2:- A challenging tree/graph-style problem, again solved using brute force and then optimized.\n\nThis round also included a 15-minute Googlyness discussion.\n\nRound 3:- A tough matrix operation problem with several follow up questions, which I managed to solve optimally, followed by another Googlyness round.\n\nWhile the technical rounds went well, I received feedback from the recr",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1tloebj/google_new_grad_2026_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_1.txt"
+    "filename": "google_reddit_1.txt"
   },
   {
-    "chunk_id": "google_leetcode_1.txt__chunk_2",
-    "text": "I knew about Team matching it usually can take months, like 6+ can be expected.\n\nAlso, if it not a trouble, I am 2k+ on LC and Expert on CF. Can we have a chat or something. I am getting into a hard time, and would like a feedback of how I can improve my chances of shortlisting. I am confident enough on my dsa/cp skills. It just shortlisting is very hard.",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "chunk_id": "google_reddit_1.txt__chunk_2",
+    "text": "round.\n\nWhile the technical rounds went well, I received feedback from the recruiter that I could have performed better in the Googliness round, especially in the second interview. And honestly, I agree.\n\nThis experience reinforced a very important lesson for me:\n\nStrong technical skills alone aren’t enough. Communication, collaboration, and mindset matter just as much.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1tloebj/google_new_grad_2026_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_1.txt"
+    "filename": "google_reddit_1.txt"
   },
   {
-    "chunk_id": "google_leetcode_1.txt__chunk_3",
-    "text": ". I am confident enough on my dsa/cp skills. It just shortlisting is very hard.\n\nComment Two:\nThanks and can you please share the exact questions they posed. Thanks\n\nComment Three:\nCongratulations on clearing the tech rounds! 🎉\n\nJust a friendly disclaimer from someone who's been camping in team matching for the last two months: maybe don't say you've \"cracked Google\" until team matching is done.",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "chunk_id": "google_reddit_1.txt__chunk_3",
+    "text": "e aren’t enough. Communication, collaboration, and mindset matter just as much.\n\nI’m grateful for the learning this process gave me and now have clear direction on what I need to improve — soft skills, communication, and expressing my thought process better.\n---\n\nComment One:\nCan you please tell what does googlyness round question seems like?\nWith an example?\nReply One for Comment One:",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1tloebj/google_new_grad_2026_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_1.txt"
+    "filename": "google_reddit_1.txt"
   },
   {
-    "chunk_id": "google_leetcode_1.txt__chunk_4",
-    "text": "wo months: maybe don't say you've \"cracked Google\" until team matching is done. 😄\n\nTurns out the final boss isn't the interviews—it's finding a team!\n\nComment Four:\nWhat offices are you applying for? Depending on which one, it can vary a lot\n\nComment Five:\nCongratulations, plz share the problems they asked.\n\nComment Six:\nbro, tell us ur tech stack, yoe, btw congrats buddy",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "chunk_id": "google_reddit_1.txt__chunk_4",
+    "text": "oglyness round question seems like?\nWith an example?\nReply One for Comment One:\nTell me about a time you worked with a difficult teammate.\nDescribe a conflict in a project and how you resolved it.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1tloebj/google_new_grad_2026_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_1.txt"
+    "filename": "google_reddit_1.txt"
   },
   {
-    "chunk_id": "google_leetcode_1.txt__chunk_5",
-    "text": "they asked.\n\nComment Six:\nbro, tell us ur tech stack, yoe, btw congrats buddy\n\nComment Seven:\ni am in tm since jan 2026 L3 EMEA\n\nComment Eight:\nWhat's your YOE ?\n\nComment Nine:\nwas the onsite in office or virtual?\n\nComment Ten:\ncongrats 👏🏻\ncould you tell us how was the preparation process ? Did you depend only on leetcode was that enough ?",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "chunk_id": "google_reddit_2.txt__chunk_0",
+    "text": "Google New Grad Interview Experience\nEarlier today I completed my first interview round with Google. This was the first time that I've interviewed with a company like them, so I was happily surprised to get here. I do have some internship experience, but I'm now looking for my first full-time role.\n\nHere's how it's gone so far. A few weeks ago I got an online assessment.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_1.txt"
+    "filename": "google_reddit_2.txt"
   },
   {
-    "chunk_id": "google_leetcode_1.txt__chunk_6",
-    "text": "was the preparation process ? Did you depend only on leetcode was that enough ?\nI have around 2 YOE, and aim to start applying for FANNG what advices you can give ?",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8324412/cracked-google-interview-experience-l3-b-xgeq/",
+    "chunk_id": "google_reddit_2.txt__chunk_1",
+    "text": "role.\n\nHere's how it's gone so far. A few weeks ago I got an online assessment. This was fairly straightforward, and soon after I was asked to schedule my first round of interviews. I scheduled them for a week later, and they consisted of one behaviour and one technical interview, each 45 minutes long. These are what I completed today.\n\nThe behavioural interview went fairly well, despite being ver",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_1.txt"
+    "filename": "google_reddit_2.txt"
   },
   {
-    "chunk_id": "google_leetcode_2.txt__chunk_0",
-    "text": "L3 Team matching (Google)\nHi all,\n\nI have cleared all the rounds for google L3 position.(I have already shared my interview exp.)\nI received the update from HR on next day of my offline interviews that I will be moving to team matching.\nIt has been more than 1.5 weeks.\nIn general, how much time does it take? I interviewed at blr office .\n\n---\n \nComment One:",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8256291/l3-team-matching-by-anonymous_user-4ouh/",
+    "chunk_id": "google_reddit_2.txt__chunk_2",
+    "text": "completed today.\n\nThe behavioural interview went fairly well, despite being very nervous for it, but I find it hard to judge these things. I was asked very normal questions, like \"how have you handled tight deadlines in the past?\" Quite unexpectedly, I was asked a technical question half-way through. The question was reasonable and fit within the remaining time.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_2.txt"
+    "filename": "google_reddit_2.txt"
   },
   {
-    "chunk_id": "google_leetcode_2.txt__chunk_1",
-    "text": ", how much time does it take? I interviewed at blr office .\n\n---\n \nComment One:\nThe kind of name that attracts customers is usually simple, memorable, professional, creative, and emotionally appealing for the target audience. WhatsApp Support: +91 76830 59474 Many successful businesses use catchy brand names that sound modern, trustworthy, stylish, and easy to search online to improve customer eng",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8256291/l3-team-matching-by-anonymous_user-4ouh/",
+    "chunk_id": "google_reddit_2.txt__chunk_3",
+    "text": "alf-way through. The question was reasonable and fit within the remaining time. To the best of my knowledge, I coded it optimally and handled edge cases well.\n\nThen came the proper technical round, and it didn't go as well. I was asked to write a function to do something with a graph, although the input wasn't quite a graph yet. In order, I ran through a few examples with the interviewer, describe",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_2.txt"
+    "filename": "google_reddit_2.txt"
   },
   {
-    "chunk_id": "google_leetcode_2.txt__chunk_2",
-    "text": "modern, trustworthy, stylish, and easy to search online to improve customer engagement and online branding. WhatsApp Branding Help: +91 76830 59474\nComment Two:\nCongrats for clearing onsites. As a Googler and from my experience . It typically takes anywhere from 2 to 6 weeks to clear team matching. Sometimes it happens in days, and occasionally it can stretch longer depending on headcount availab",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8256291/l3-team-matching-by-anonymous_user-4ouh/",
+    "chunk_id": "google_reddit_2.txt__chunk_4",
+    "text": "graph yet. In order, I ran through a few examples with the interviewer, described an algorithm that would likely work, noted an edge case around missing values, clarified the forms of the input and output, and finally started writing an implementation. I found this process to take much longer than expected. My code ended up being ~30 lines without empty space, and I only finished when there was ab",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_2.txt"
+    "filename": "google_reddit_2.txt"
   },
   {
-    "chunk_id": "google_leetcode_2.txt__chunk_3",
-    "text": "s in days, and occasionally it can stretch longer depending on headcount availability.",
-    "source": "Leetcode",
-    "url": "https://leetcode.com/discuss/post/8256291/l3-team-matching-by-anonymous_user-4ouh/",
+    "chunk_id": "google_reddit_2.txt__chunk_5",
+    "text": "ed up being ~30 lines without empty space, and I only finished when there was about 5-10 minutes left.\n\nOn the positive side, I didn't hesitate or go silent, I talked through my thought process and divided the problem into steps, and I think my implementation was correct, minus a small missing conditional error.\n\nOn the negative side, I forgot to state the time and space complexity, and my intervi",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
     "company": "Google",
-    "filename": "google_leetcode_2.txt"
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_6",
+    "text": "e negative side, I forgot to state the time and space complexity, and my interviewer didn't ask. He was very quiet throughout. I now realize that my solution was O(n^2) rather than O(n) because I didn't use memoization. Had I more time, I think I would have noticed this. For next time, I need to make sure to note the time complexity even if I'm not asked.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_7",
+    "text": "xt time, I need to make sure to note the time complexity even if I'm not asked.\n\nAfter I was done coding, my interviewer noted a couple missing conditions, which I had spoken about but forgot to type, and then they asked me a follow up question. This question was more systems related, in that it had to do with extending the code to a big-data situation.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_8",
+    "text": "related, in that it had to do with extending the code to a big-data situation. I gave an answer that, while maybe creative, was not totally practical. Finally, we chatted for a bit over time, and then the interview was over.\n\nOverall, I'm not terribly confident, but happy for the experience. I'll update this post when I hear back.\n\nUpdate 28/11/2025: I’m moving on to the second round, which consi",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_9",
+    "text": "I hear back.\n\nUpdate 28/11/2025: I’m moving on to the second round, which consists of two 45-minute technical interviews.\n\nUpdate 17/12/2025: I had to move the second round to the 15th because I got a nasty flu last week.\n\nThe first interview started with a fairly long introduction before I was given a question which involved finding a shortest path on a grid.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_10",
+    "text": "before I was given a question which involved finding a shortest path on a grid. I completed this in like 10 minutes with a BFS and gave complexities. The follow up was significantly trickier. It required using Dijkstra's in a creative way. I talked about the obvious non-optimal solution first, but I was stumped for a while. I talked to the interviewer about the possibility of a recurrence relation",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_11",
+    "text": "hile. I talked to the interviewer about the possibility of a recurrence relationship, but then he started giving me hints in another direction. Or at least I think he was. I had a really hard time understanding what he was saying, and so after a lot of back and forth, I only got to the optimal solution within the last 5 minutes. And that was only because I asked him to explain his thinking with a",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_12",
+    "text": "5 minutes. And that was only because I asked him to explain his thinking with a concrete example, and he started writing something like a Dijkstra's table. I don't think I've ever used a table, but I immediately got the hint after that, and said was could use a priority queue with a specific metric. The interviewer said I didn't need to give an implementation, and he just asked for the time comple",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_13",
+    "text": "d I didn't need to give an implementation, and he just asked for the time complexity, which I believe I stated correctly. If there was a third follow-up, I didn't get to it.\n\nThe second interview went both better and worse. I got to the solutions without hints, but I was really fumbling around with the implementation. The first part required checking if a map was valid for a specific encode/decode",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_14",
+    "text": "The first part required checking if a map was valid for a specific encode/decode procedure. This was easy enough, but along the way, the interviewer caught my assumption that the number strings were in base 10. That was easy enough to fix, because the python int function takes a base argument. Later, I caught my own assumption that the map contained keys for all the values, and so I added a fix be",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_15",
+    "text": "sumption that the map contained keys for all the values, and so I added a fix before we moved on to a follow-up. This first part took around 25 minutes. The second part involved determining if any map existed for some specific inputs. I quickly realized that the problem was solvable in factorial time by checking permutations. I hadn't practiced much backtracking, and so I fumbled around implementi",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_16",
+    "text": "ations. I hadn't practiced much backtracking, and so I fumbled around implementing this for the rest of the interview. With about 5 minutes left, I got an almost perfect solution down. My base case conditional was a bit off because I'd forgot to update it, but that was it. If there was another follow-up, I didn't have time for it. The interview ended and we chatted a bit about interviewer's work.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_17",
+    "text": "time for it. The interview ended and we chatted a bit about interviewer's work. He asked me if I had talked with any teams yet, but I don't think that happens until later. I'm assuming he was being polite.\n\nAll in all, it could have gone better, but I didn't bomb it. If I keep practicing LeetCode, I'm confident that I'll do very well next time.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_18",
+    "text": "If I keep practicing LeetCode, I'm confident that I'll do very well next time. For context, I've completed 329 problems over the past 5 years, with most of it from 2023. I know some people say 200 problems is enough, but I think it depends quite a bit on luck. For example, I've never done Dijkstra's on a LeetCode problem, but I had some experience with modifying it for Advent of Code one year.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_19",
+    "text": "oblem, but I had some experience with modifying it for Advent of Code one year. I think more practice is always better so long as you don't get burned out.\n\nUpdate 9/1/2026: Just moved on to team matching!\n\nUpdate 2/2/2026: Signed my offer. Hyped!\n---\n \nComment One:\nHow hard was the coding, u wud say?\nReply One for Comment One:\nThe first question was leetcode easy, and the second was maybe a norma",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_2.txt__chunk_20",
+    "text": "ment One:\nThe first question was leetcode easy, and the second was maybe a normal medium.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1p1gi4t/google_new_grad_interview_experience/",
+    "company": "Google",
+    "filename": "google_reddit_2.txt"
+  },
+  {
+    "chunk_id": "google_reddit_3.txt__chunk_0",
+    "text": "Google SWE New Grad R1 experience\nSo I just finished my R1 last week (location US) and wanted to share my experience and see what you guys think possible outcome is\n\nBehavioral: super chill interviewer. We matched vibes, she seemed happy about all my answers, didn’t ask many follow ups and we went off topic some times to talk about random things (like a time I accidentally got charged after deploy",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1si4bae/google_swe_new_grad_r1_experience/",
+    "company": "Google",
+    "filename": "google_reddit_3.txt"
+  },
+  {
+    "chunk_id": "google_reddit_3.txt__chunk_1",
+    "text": "to talk about random things (like a time I accidentally got charged after deploying a website on AWS) feel super strong about this\n\nTechnical: he was more strict and not too expressive. Gave me a question and said he had follow ups from the beginning so he wanted to go fast. I solved the first one optimally pretty quickly, I’d say immediately. I coded it and it was correct. No bugs.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1si4bae/google_swe_new_grad_r1_experience/",
+    "company": "Google",
+    "filename": "google_reddit_3.txt"
+  },
+  {
+    "chunk_id": "google_reddit_3.txt__chunk_2",
+    "text": "ly pretty quickly, I’d say immediately. I coded it and it was correct. No bugs. Then moved into second problem, brute force was easy but he wanted the optimized so it took me I’d say 5 min to arrive at optimal and then he seemed satisfied with the optimal so I coded it. I had two bugs but I fixed them and the rest was correct. He said “everything here looks correct now” Then third problem took me",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1si4bae/google_swe_new_grad_r1_experience/",
+    "company": "Google",
+    "filename": "google_reddit_3.txt"
+  },
+  {
+    "chunk_id": "google_reddit_3.txt__chunk_3",
+    "text": "correct. He said “everything here looks correct now” Then third problem took me about the same to arrive at optimal but this is only 45 min and he came in 5 min late so I could not code it. He did say don’t worry about coding for this one so I just arrived to the optimal solution.\n\nAll time complexities and stuff were right, no major issues during the interview.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1si4bae/google_swe_new_grad_r1_experience/",
+    "company": "Google",
+    "filename": "google_reddit_3.txt"
+  },
+  {
+    "chunk_id": "google_reddit_3.txt__chunk_4",
+    "text": "l time complexities and stuff were right, no major issues during the interview. Only the third one I initially pointed at a wrong solution and then I arrived at the correct and optimal one.\n\ntopics were arrays, sliding window, hash maps and pointers\n\nDifficulty: first one easy, second and third medium\n---\n \nComment One:\now hard was the coding, u wud say?\nReply One for Comment One:",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1si4bae/google_swe_new_grad_r1_experience/",
+    "company": "Google",
+    "filename": "google_reddit_3.txt"
+  },
+  {
+    "chunk_id": "google_reddit_3.txt__chunk_5",
+    "text": "--\n \nComment One:\now hard was the coding, u wud say?\nReply One for Comment One:\nCompletely new in the wording but the patterns are in neetcode 150, sliding window\n\nComment Two:\nsounds like you did solid on the technical parts. at prepfully we track a lot of new grad outcomes and honestly the behavioral matters more than people think for google.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1si4bae/google_swe_new_grad_r1_experience/",
+    "company": "Google",
+    "filename": "google_reddit_3.txt"
+  },
+  {
+    "chunk_id": "google_reddit_3.txt__chunk_6",
+    "text": "outcomes and honestly the behavioral matters more than people think for google. the fact you vibed with the interviewer and went off topic is actually a good sign - shows you can communicate naturally which is huge for team fit. for the technical, getting through 2.5 problems optimally with only minor bugs is pretty standard for moving forward.",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1si4bae/google_swe_new_grad_r1_experience/",
+    "company": "Google",
+    "filename": "google_reddit_3.txt"
+  },
+  {
+    "chunk_id": "google_reddit_3.txt__chunk_7",
+    "text": "problems optimally with only minor bugs is pretty standard for moving forward. i wouldn't stress about not coding the third one since he said not to worry about it",
+    "source": "Reddit",
+    "url": "https://www.reddit.com/r/leetcode/comments/1si4bae/google_swe_new_grad_r1_experience/",
+    "company": "Google",
+    "filename": "google_reddit_3.txt"
   }
 ]
